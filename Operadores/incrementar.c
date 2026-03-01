@@ -29,7 +29,5 @@ int main(){
     printf("Após-decremeto - Numero 1: %d - Resultado: %d\n", n1, resultado);
 
     resultado = --n1;
-    printf("Após-decremeto - Numero 1: %d - Resultado: %d\n", n1, resultado);
-
-    
+    printf("Pré-decremeto - Numero 1: %d - Resultado: %d\n", n1, resultado);
 }
