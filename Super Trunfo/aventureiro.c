@@ -70,6 +70,6 @@ int main(){
 
     
     printf("B01\n");
-    printf("Estado; %s\n - CEP: %d\n - Cidade: %s\n - População: %d\n - Área:%.2f\n - PIB: %.2f\n - Pontos Turísticos; %d\nA - Densidade Populacional:%.2f hab/km²\n - PIB per Capita:%.2f reis\n", estado2, cep2, nomedacidade2, populacao2, area2, pib2, turista2, densidade2, percapital2);
+    printf("Estado; %s\n - CEP: %d\n - Cidade: %s\n - População: %d\n - Área:%.2f\n - PIB: %.2f\n - Pontos Turísticos; %d\n - Densidade Populacional:%.2f hab/km²\n - PIB per Capita:%.2f reis\n", estado2, cep2, nomedacidade2, populacao2, area2, pib2, turista2, densidade2, percapital2);
     
 }
