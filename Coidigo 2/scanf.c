@@ -18,5 +18,4 @@ int main() {
     scanf("%f2", &altura);
     printf("Voce tem %.2f de altura\n", altura);
 
-
 }

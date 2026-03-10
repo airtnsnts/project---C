@@ -126,6 +126,4 @@ poder1);
     printf("PIB per Capita: %d\n", percapitaA);
     printf("Super Poder: %d\n", poderA);
 
-    
-    
 }
